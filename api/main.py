@@ -29,7 +29,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://ishaq019.github.io",
-        "https://syedishaq.me/",
+        "https://syedishaq.me",
         "http://localhost:5173",
         "http://127.0.0.1:5173",
     ],
